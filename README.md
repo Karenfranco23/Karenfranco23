@@ -1,7 +1,7 @@
 # Olá 👋 , Eu sou a Karen Franco
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/](https://www.linkedin.com/in/karen-franco-bba406167/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-franco-bba406167/)](https://www.linkedin.com/in/karen-franco-bba406167/)
 
 
 ### About me
