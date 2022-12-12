@@ -3,7 +3,7 @@
  
  # Olá 👋 , Eu sou a Karen Franco
 
-- 🎓 Análise e Desenvolvimento de Sistemas - PUC Minas
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-franco-bba406167/)](https://www.linkedin.com/in/karen-franco-bba406167/)
 
