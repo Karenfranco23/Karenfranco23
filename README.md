@@ -1,5 +1,5 @@
 
- <img src="https://raw.githubusercontent.com/Karenfranco23/Karenfranco23/main/Blue%20Illustration%20Startup%20Pricing%20Plan%20Presentation%20.png" style="width:550px;height:200px">
+ <img src="https://raw.githubusercontent.com/Karenfranco23/Karenfranco23/main/Blue%20Illustration%20Startup%20Pricing%20Plan%20Presentation%20.png" style="width:500px;height:200px">
  
  # Olá 👋 , Eu sou a Karen Franco
 
